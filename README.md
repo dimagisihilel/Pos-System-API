@@ -83,8 +83,8 @@ Each endpoint includes clear documentation with sample requests and expected res
 ```
 {
     "customerid": "C008",
-    "name": "John Doe",
-    "address": "123 Elm Street",
+    "name": "Dimagi De Silva",
+    "address": "123 Panadurat",
     "contact": "0712345678"
 }
 ```
@@ -114,13 +114,13 @@ Body:
 [
     {
         "itemId": "I001",
-        "description": "Widget",
+        "description": "Bun",
         "unitPrice": 50.00,
         "qtyOnHand": 100
     },
     {
         "itemId": "I002",
-        "description": "Gadget",
+        "description": "Hair clip",
         "unitPrice": 75.00,
         "qtyOnHand": 150
     }
